@@ -4,7 +4,7 @@ This section focuses on **evaluating models, comparing algorithms, and selecting
 A solid understanding of evaluation metrics and selection strategies is essential for building reliable ML systems.
 
 
-## 🔑 Topics Covered
+## 🔑 Topics Covered:
 
 1. **Introduction to Model Evaluation**  
    - Why evaluation is necessary  
