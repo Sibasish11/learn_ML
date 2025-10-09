@@ -14,7 +14,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 1. Introduction to Digital Images\n",
+    "## 🏗️ 1. Introduction to Digital Images\n",
     "\n",
     "- **Definition:** An image is a 2D matrix of pixel intensity values.  \n",
     "- **Color images:** Represented as three channels (Red, Green, Blue).  \n",
@@ -59,7 +59,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 3. Image Channels"
+    "## 🎨 3. Image Channels"
    ]
   },
   {
@@ -89,7 +89,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 4. Pixel Access and Manipulation"
+    "## 🧮 4. Pixel Access and Manipulation"
    ]
   },
   {
@@ -120,7 +120,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 5. Image Cropping and Resizing"
+    "## ✂️ 5. Image Cropping and Resizing"
    ]
   },
   {
@@ -149,7 +149,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 6. Basic Pixel Operations"
+    "## ⚡ 6. Basic Pixel Operations"
    ]
   },
   {
@@ -181,7 +181,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## 7. Key Takeaways\n",
+    "## 🧠 7. Key Takeaways\n",
     "- Images are arrays; every pixel can be accessed or modified.\n",
     "- Color channels allow control over RGB composition.\n",
     "- Pixel-level operations are the foundation for filtering, segmentation, and object detection."
@@ -212,4 +212,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
